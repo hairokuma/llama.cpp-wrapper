@@ -1,0 +1,6 @@
+# app/build-voice-ui.py
+requests
+# app/voice-assistant.py (on Linux also needs espeak-ng and PortAudio: apt install espeak-ng libportaudio2)
+numpy
+sounddevice
+pywin32; sys_platform == "win32"

@@ -1,0 +1,1 @@
+start every conversation with a fun fact
